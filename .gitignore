@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Expo local state
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# Env files
+.env*
+
+# macOS
+.DS_Store
+
+# Reference-only, not shipped
+INTERVIEW_GUIDE.md
