@@ -3,7 +3,7 @@
 React Native-app (Expo) til en dansk markedsplads, hvor privatpersoner kan udleje deres ubrugte GPU-, CPU- og RAM-kapacitet til studerende, startups og små virksomheder.
 Lavet til **den afsluttende gruppeopgave i Innovation og ny teknologi (INNT), CBS, E2026**.
 
-Gruppe: <fiktiv>Navn 1, Navn 2, Navn 3, Navn 4</fiktiv>
+Gruppe: Alexander Lorentzen Villekjaer Og Emil Johan Guntofte
 
 ## Funktioner
 | Funktion | Skærm | Kommer fra |
